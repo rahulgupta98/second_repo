@@ -1,3 +1,6 @@
+
  this is second file
 
 local edit commited
+second
+edited second file

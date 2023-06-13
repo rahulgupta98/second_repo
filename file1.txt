@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is first file
 
+=======
+ this is the first
+>>>>>>> rahulgupta98/master
